@@ -10,8 +10,7 @@ Node App
 
 ##### Sample images -
 Home Page
-![Sample Photo - Home Page]
-https://github.com/dibakarsutradhar/dibakarsutradhar.github.io/blob/master/sampleimg/2.png
+![Markdown writing a minute](https://github.com/dibakarsutradhar/dibakarsutradhar.github.io/blob/master/sampleimg/2.png)
 
 Contact Page
 ![Sample Photo - Contact Page]
