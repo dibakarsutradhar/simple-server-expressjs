@@ -13,5 +13,4 @@ Home Page
 ![Markdown writing a minute](https://github.com/dibakarsutradhar/dibakarsutradhar.github.io/blob/master/sampleimg/2.png)
 
 Contact Page
-![Sample Photo - Contact Page]
-(https://github.com/dibakarsutradhar/dibakarsutradhar.github.io/blob/master/sampleimg/1.png)
+![Markdown writing a minute](https://github.com/dibakarsutradhar/dibakarsutradhar.github.io/blob/master/sampleimg/1.png)
